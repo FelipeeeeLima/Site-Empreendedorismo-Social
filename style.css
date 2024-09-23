@@ -1,0 +1,51 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(199, 199, 199);
+    color: rgb(0, 0, 0);
+    height: auto;
+    width: auto;
+    background-image: url(pexels-anniroenkae-2599195.jpg);
+    background-repeat: no-repeat no-repeat;
+    background-position: center;
+}
+
+header{
+    background-color: black;
+    color: white;
+
+}
+
+.oqempso{
+    background-color: rgb(100, 100, 100);
+    background-image: url(pexels-adrien-olichon-1257089-3137052.jpg);
+    background-size: cover;
+    background-repeat: no-repeat no-repeat;
+    background-position: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.oqempsocor1{
+    color: rgb(100, 0, 0);
+    background-image: url(pexels-adrien-olichon-1257089-3137052.jpg);
+    background-size: cover;
+    background-repeat: no-repeat no-repeat;
+    background-position: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.oqempsocor2{
+    color: rgb(58, 121, 0);
+    background-image: url(pexels-adrien-olichon-1257089-3137052.jpg);
+    background-size: cover;
+    background-repeat: no-repeat no-repeat;
+    background-position: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bodydoindex{
+    background-color: rgb(26, 44, 0);
+}
+
+.articleindex{
+    color: rgb(0, 0, 0);
+}
